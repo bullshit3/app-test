@@ -4,5 +4,17 @@
   "photoId": 1,
   "name": "testas",
   "score": "lets get some tequilla"
+   },
+   {
+  "userId": 2,
+  "photoId": 1,
+  "name": "testas2",
+  "score": "lets get some tequilla2"
+   },
+   {
+  "userId": 3,
+  "photoId": 1,
+  "name": "testas",
+  "score": "lets get some tequilla3"
    }
 }
