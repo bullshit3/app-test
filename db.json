@@ -1,8 +1,8 @@
 {
    "data": {
   "userId": 1,
-  "id": 1,
-  "title": "testas",
-  "body": "lets get some tequilla"
+  "photoId": 1,
+  "name": "testas",
+  "score": "lets get some tequilla"
    }
 }
