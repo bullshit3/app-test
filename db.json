@@ -3,8 +3,20 @@
       {
       "userId": 1,
       "photoId": 1,
-      "name": "testas",
-      "score": "lets get some tequilla"
-      }
+      "name": "Jack",
+      "score": "1985"
+      },
+      {
+      "userId": 2,
+      "photoId": 1,
+      "name": "James",
+      "score": "1548"
+      },
+      {
+      "userId": 3,
+      "photoId": 2,
+      "name": "Johnny",
+      "score": "2164"
+      },
    ]
 }
