@@ -1,8 +1,7 @@
-  
-{
-  "data":
-  {"userId": 1,
+ 
+  "data":{
+  "userId": 1,
   "id": 1,
   "title": "bandymas",
-  "body": "tikriausiai pavyko"}
-}
+  "body": "tikriausiai pavyko"
+  }
